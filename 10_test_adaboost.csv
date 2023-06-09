@@ -1,0 +1,3 @@
+,Algorithm,n_estimators,eta,max_depth,n_neighbors,AUC
+0,['AdaBoost'],[50],[0],[0],[0],['0.774919530392226']
+1,['AdaBoost'],[100],[0],[0],[0],['0.7756091442391423']
